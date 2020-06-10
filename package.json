@@ -1,0 +1,13 @@
+{
+  "name": "rblx-usernames",
+  "version": "1.0.0",
+  "description": "A list of Roblox usernames.",
+  "main": "index.cjs",
+  "module": "index.mjs",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack <hello@5079.ml> (https://5079.ml)",
+  "license": "ISC"
+}
